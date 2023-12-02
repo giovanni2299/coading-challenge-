@@ -1,0 +1,62 @@
+body{
+    background-image: url("./background.jpg");
+    background-size: 100%;
+}
+
+.container{ 
+    margin-top: 30px;
+    width: 1000px;
+    height: 700px;
+    margin: 0 auto;
+    background-color: black;
+    opacity: .6;
+    text-align: center;
+}
+
+img{
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+}
+
+h1{
+    color:greenyellow;
+}
+.boxgreen{
+    background-color: greenyellow;
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+ul{
+    text-align: left;
+}
+
+li{
+    color: white;
+    
+}
+
+.boxorange{
+    width: 200px;
+    height: 20px;
+    background-color: orange;
+
+}
+.boxgreen1{
+    width: 400px;
+    height: 20px;
+    background-color: green;
+
+}
+.boxred{
+    width: 100px;
+    height: 20px;
+    background-color: red;
+
+}
+
+
+
+
